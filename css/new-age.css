@@ -239,8 +239,10 @@ section.download .badges .badge-link {
 section.download .badges .badge-link:last-child {
   margin-bottom: 0;
 }
-section.download .badges .badge-link img {
-  height: 60px;
+section.download .badges .badge-link i {
+  font-size: 60px;
+  color: white;
+  padding: 30px;
 }
 @media (min-width: 768px) {
   section.download .badges .badge-link {
